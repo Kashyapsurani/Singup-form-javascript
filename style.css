@@ -5,6 +5,13 @@
     
 }
 
+.username {
+    width: 200px;
+    height: 25px;
+    border-radius: 5px;
+    border: 1px solid black;
+}
+
 .email{
     width: 200px;
     height: 25px;
@@ -22,7 +29,7 @@
 }
 
 .btn{
-    height: 25px;
+    height: 30px;
     width: 207px;
     border-radius: 5px;
     border: 1px solid black;
